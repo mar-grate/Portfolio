@@ -11,6 +11,4 @@ CSS (including Flexbox/Grid for layout design)
 Installation
 To view the portfolio locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/yourusername/portfolio.git
-Open the index.html file in your browser.
+
